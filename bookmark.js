@@ -1,0 +1,2 @@
+
+javascript:(function(){var s=document.getElementById("tongwenlet_tw");if(s!=null){document.body.removeChild(s);}var s=document.createElement("script");s.language="javascript";s.type="text/javascript";s.src="http://tongwen.openfoundry.org/src/bookmarklet/convert_cn_tw.js";s.id="cn_tw";document.body.appendChild(s); })();
